@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: affac40a53cb458782797848a0a89673, type: 3}
+  m_Name: LineStaticData
+  m_EditorClassIdentifier: 
+  LinePrefab: {fileID: 1333730118331068282, guid: d06e55bf15e1b064c972f9faf99cab9f, type: 3}
+  CircleSpotPrefab: {fileID: 8501539319862744113, guid: 71c9ea7fbe4a3904ea3a6a39d06d1ea4, type: 3}
